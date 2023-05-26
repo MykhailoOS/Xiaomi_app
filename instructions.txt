@@ -1,0 +1,6 @@
+# Команди програми
+
+# print(xiaomi) - виводе дані о програмах на телефоні
+# xiaomi.telegram.send_messege() - відправляє повідомлення у телеграм
+# xiaomi.youtube.password_youtube() - вмикає авторизацію( треба вести вірний пароль)
+# xiaomi.youtube.watch() - вмикає прегляд відео

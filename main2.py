@@ -27,6 +27,10 @@ class Telegram(Aplication):
     def send_messege(self):
         print(f"{color.MAGENTA} message sended!")
     
+    
+    def tg_notifications(self):
+        print(f"{color.GREEN}You have 3 new notifications)")
+    
 
 class Phone:
     
