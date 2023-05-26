@@ -19,6 +19,9 @@ class Youtube(Aplication):
 
     def watch(self):
             print(f"{color.LIGHTRED_EX}__wacthing video__")
+     
+    def yt_notifications(self):
+        print(f"{color.GREEN}You have 5 new notifications)")
 
 class Telegram(Aplication):
     def __init__(self, name, version):
